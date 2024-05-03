@@ -5,7 +5,10 @@ public class test1{
 
  }
 public void m5(){
-   Sytem.out.println("m5");
- 
+   
+    int a=10;
+    int b=20;
+  int c=a+b
+ Sytem.out.println("sum is: " +c);
 }
 }
